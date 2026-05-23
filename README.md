@@ -151,6 +151,6 @@ Run all the cells Sequentially.
 - Quantum machine learning experimentation
 - Time-series prediction systems
 
-##  Made with ❤️ Manav Bhardwaj 
+##  Made with ❤️ by Manav Bhardwaj 
 
 
