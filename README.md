@@ -84,6 +84,14 @@ The objective is to analyze whether quantum-enhanced representations can improve
 - Recall
 - F1-Score
 
+## Model Comparison
+
+![Final Model Comparison](Assests/Comparisons.png)
+
+### Analysis of Results
+
+The Hybrid Quantum model outperformed both classical baselines...
+
 ## Final Results
 
 ```bash
